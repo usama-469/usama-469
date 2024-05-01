@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://tech.gsa.gov/assets/cms/techradar/ar-vr-mr.gif">
 - 🔭 I’m currently working on **A VPS enabled AR app for shared AR gaming experiences (like pokemon GO)**
 
-- 🌱 I’m currently learning **8th wall and A-frame for web AR creation**
+- 🌱 I’m currently learning **8th wall and A-frame for web AR development**
 
 - 💬 Ask me about **Unity, game mechanics design, Augmented reality, Blender**
 
