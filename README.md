@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Usama Renders</h1>
 <h3 align="center">XR developer and a life long learner</h3>
 <img align="right" alt="Coding" width="400" src="https://tech.gsa.gov/assets/cms/techradar/ar-vr-mr.gif">
-- 🔭 I’m currently working on **A VPS enabled AR app for shared AR gaming experiences (like pokemon GO)**
+
+- 🔭 I’m currently working on **A VPS-enabled AR app for shared AR gaming experiences (like Pokemon GO)**
 
 - 🌱 I’m currently learning **8th wall and A-frame for web AR development**
 
